@@ -17,6 +17,6 @@
 
 ### ダウンロード
 
-$ git clone git://github.com/deroter/f5-wp.git
+	$ git clone git://github.com/deroter/f5-wp.git
 
 これでおk
